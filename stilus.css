@@ -37,3 +37,32 @@ nav ul li{
 .legordul:hover .legordul_ul{
     visibility: visible;
 }
+
+#kep_1{
+background-image: ;
+}
+
+#kep_2{
+
+}
+#kep_3{
+
+}
+
+
+.tartalom_art .kicsikep{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+}
+.nagykep{
+    background-image: url(kepek/_DSC5273.jpeg);
+}
+#kep_1:hover .nagykep{
+    background-image: url(kepek/_DSC5273.jpeg);
+}
+#kep_2:hover .nagykep{
+    background-image: url(kepek/_DSC5278.jpeg);
+}
+#kep_3:hover .nagykep{
+    background-image: url(kepek/_DSC5357.jpeg);
+}
