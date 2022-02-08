@@ -7,11 +7,19 @@ header{
 .legordul{
     position: relative;
 }
-.le_li{
+.le_li1{
     position: absolute;
+    text-decoration: none;
+}
+.le_li2{
+    position: absolute;
+    text-decoration: none;
+    top: 15px;
 }
 .kint_nav_ul{
     list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .kint_nav_ul li{
     text-decoration: none;
