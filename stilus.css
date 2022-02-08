@@ -29,9 +29,11 @@ header{
 }
 
 .tartal{
-    display: none;
+    visibility: hidden;
 }
-
-.legordul:hover{
-    display: block;
+nav ul li{
+    cursor: pointer;
+}
+.legordul:hover .tartal{
+    visibility: visible;
 }
