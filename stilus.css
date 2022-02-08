@@ -6,15 +6,18 @@ header{
 
 .legordul{
     position: relative;
+    
 }
 .le_li1{
     position: absolute;
     text-decoration: none;
+
 }
 .le_li2{
     position: absolute;
     text-decoration: none;
     top: 15px;
+
 }
 .kint_nav_ul{
     list-style-type: none;
@@ -23,4 +26,12 @@ header{
 }
 .kint_nav_ul li{
     text-decoration: none;
+}
+
+.tartal{
+    display: none;
+}
+
+.legordul:hover{
+    display: block;
 }
