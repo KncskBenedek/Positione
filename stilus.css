@@ -5,5 +5,8 @@
     position: absolute;
 }
 .kint_nav_ul{
-    
+    list-style-type: none;
+}
+.kint_nav_ul li{
+    text-decoration: none;
 }
