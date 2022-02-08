@@ -1,3 +1,9 @@
+@charset "UTF-8";
+
+header{
+    position: fixed;
+}
+
 .legordul{
     position: relative;
 }
